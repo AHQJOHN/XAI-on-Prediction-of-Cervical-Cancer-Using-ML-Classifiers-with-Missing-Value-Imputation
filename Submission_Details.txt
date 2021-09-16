@@ -5,4 +5,6 @@ Status: Submitted
 cameraready: N/A
 Authors:  Israt Jahan Dristy, Md. Ashfaqul Haque, Shihab Sharar, Annajiat Alim Rasel
 Submission Date: 16th September, 2021.
-Group No.: 06
+Group No.: 06 
+(Md. Ashfaqul Haque - 21166016
+Israt Jahan Dristy - 21166046)
